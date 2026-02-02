@@ -3,3 +3,4 @@ build/
 *.a
 *.so
 CMakeCache.txt
+.DS_Store
