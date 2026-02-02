@@ -153,4 +153,8 @@ cd build
 ctest
 ```
 
+## 参考リンク
+- [scdha-wireshark](https://github.com/matsuzaki-keiichi/scdha-wireshark)
+- [pcap-nc](https://github.com/matsuzaki-keiichi/pcap-nc)
+
 ## ライセンス
